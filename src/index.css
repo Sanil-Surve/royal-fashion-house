@@ -9,10 +9,7 @@
 
 .App {
   font-family: Arial, sans-serif;
-}
 
-body {
-  /* The image used */
   background-image: url("assets/king-bg.jpeg");
 
   /* Full height */
@@ -23,4 +20,9 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+body {
+  /* The image used */
+
 }
