@@ -14,7 +14,10 @@ const Footer = () => {
           © 2024 Royal Fashion House
         </p>
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-          <a className="text-gray-400" href="https://www.facebook.com/somnath.shinde.146069?mibextid=ZbWKwL">
+          <a
+            className="text-gray-400"
+            href="https://www.facebook.com/somnath.shinde.146069?mibextid=ZbWKwL"
+          >
             <svg
               fill="currentColor"
               stroke-linecap="round"
@@ -26,7 +29,10 @@ const Footer = () => {
               <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
             </svg>
           </a>
-          <a className="ml-3 text-gray-400" href="https://www.instagram.com/i_am_aj__007_?igsh=enZlZ3R3bXVqMzEw">
+          <a
+            className="ml-3 text-gray-400"
+            href="https://www.instagram.com/i_am_aj__007_?igsh=enZlZ3R3bXVqMzEw"
+          >
             <svg
               fill="none"
               stroke="currentColor"
